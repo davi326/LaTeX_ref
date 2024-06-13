@@ -1,6 +1,6 @@
 # Introdução
 
-Isso é uma tentativa de facilitar o meu, e posteriormente de meus colegas, referenciamento às funções mais utilizadas em LaTeX
+Isso é uma tentativa de facilitar o meu, e posteriormente de meus colegas, referenciamento às funções, pacotes, e utilizades mais utilizadas em LaTeX, além de algumas outras coisinhas divertidas :).
 
 # Recomendações
 
